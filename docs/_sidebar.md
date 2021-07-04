@@ -4,7 +4,8 @@
   - [xxx2](post/经典力学/3.md)
 
 - 化学
-  - [PCB布线](post/有机化学.md)
+  - [xxx1](post/有机化学/4.md)
+  - [xxx2](post/无机化学/5.md)
 
 - 英语
   - [xxx](post/英语/口语.md)
